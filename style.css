@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+  height: 100%;
+}
+
+h1 {
+  color: #8a442a;
+}
+
+/* Button Background */
+button {
+  background-color: #a65233;
+  color: #f2f2f2;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px 10px 20px;
+  font-weight: bold;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #8a442a;
+}
+
+.coklat-tua {
+  background-color: #f2d98d;
+}
+
+/* Red Box */
+.kotak-merah {
+  width: 25px;
+  height: 25px;
+  margin: 10px auto;
+  border-radius: 5px;
+  background-color: red;
+}
+
+/* Green Box */
+.kotak-hijau {
+  width: 25px;
+  height: 25px;
+  margin: 10px auto;
+  border-radius: 5px;
+  background-color: green;
+}
+
+/* Blue Box */
+.kotak-biru {
+  width: 25px;
+  height: 25px;
+  margin: 10px auto;
+  border-radius: 5px;
+  background-color: blue;
+}
